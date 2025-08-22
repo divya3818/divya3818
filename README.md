@@ -1,7 +1,7 @@
 ## Hi 👋, I am Divya Bagde
 
 
-Student | Passionate Programmer
+<h4>Student | Passionate Programmer<h4></h4>
 
 <!--
 **divya3818/divya3818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
